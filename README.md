@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dieudonneshakespeare
+- 👀 I’m interested in Web development and software programming 
+- 🌱 I’m currently learning Full-stack development 
+- 💞️ I’m looking to collaborate on every programming project 
+- 📫 How to reach me on twitter/X @GreenRat12 
